@@ -133,7 +133,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Greetings for multiple languages]**
+- [ ] **[Generate Greetings in multiple languages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
